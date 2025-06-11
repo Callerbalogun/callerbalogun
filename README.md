@@ -1,3 +1,2 @@
 ## Hello there 👋, I'm Idris
-<hr />
 A dedicated mobile engineer with 2 years of experience specializing in React Native and React, focused on creating scalable, intuitive applications. Skilled in all stages of the development lifecycle, including system architecture, performance optimization, and security. Strong in cross-platform development and backend integration, delivering precise, user-centered solutions. Comfortable working independently or as part of agile teams in remote or hybrid settings. Experienced in mentoring, team collaboration, and managing CI/CD pipelines. Always up-to-date with the latest in mobile and web development to build secure, high-performing, and globally accessible applications.
