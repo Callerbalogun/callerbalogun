@@ -1,4 +1,4 @@
-### Hello there 👋, I'm 
+### Hello there 👋, I am
 
 Idris Balogun
 =============
